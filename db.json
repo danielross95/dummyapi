@@ -1,0 +1,12 @@
+{
+    "languagetest": [
+        {
+            "id": 1,
+            "code": "LANGCODE1"
+        },
+        {
+            "id": 2,
+            "code": "LANGCODE2"
+        }
+    ]
+}
